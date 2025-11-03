@@ -1,0 +1,52 @@
+#EXTM3U x-tvg-url="https://gitlab.com/Meroser/My-EPG/-/raw/main/tvxml-Meroser.xml.gz" catchup="append" catchup-source="&st=${(b)yyyyMMddHHmmss}&ed=${(e)yyyyMMddHHmmss}"
+# 央视高清/17个频道
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV1.png" group-title="央视高清",CCTV-1
+https://stream1.freetv.fun/1e233c3fa02ad66a59876f9f9d5500a9b99b490836014ad39c51e69a17b3c563.ctv
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV2.png" group-title="央视高清",CCTV-2
+https://stream1.freetv.fun/11624a2b3b906e8cf3d5dbba63815541796c032f336cf0b8e79b94734cb7cd55.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV3.png" group-title="央视高清",CCTV-3
+https://stream1.freetv.fun/9015303cc3c190b6a9f5d23362c201542fed2be9a62d443749f9368bd0a235f9.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV4.png" group-title="央视高清",CCTV-4
+https://stream1.freetv.fun/2d775dbe18822cdac5a52a92edf587ac88cdebdcb14b310e254c376cce5f44d2.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV5.png" group-title="央视高清",CCTV-5
+https://stream1.freetv.fun/7f568a53a116f746adcee3cfae0de7447c5ab334387cec3929108b998ffdcc1a.ctv
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV6.png" group-title="央视高清",CCTV-6
+https://stream1.freetv.fun/4b5401bfdef667fce37f7fdea83612689811f14646dbb5aaa1b0644eeda08e7a.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV7.png" group-title="央视高清",CCTV-7
+https://stream1.freetv.fun/bf1896e55367a333918e2c0d237b642bf139af72e99f1a658d219aee6bc1d3c7.ctv
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV8.png" group-title="央视高清",CCTV-8
+https://stream1.freetv.fun/a15c826cb06f60854c3c203da5848c1cfb80ea188ddfd7ca83bd845f170ca2a1.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV9.png" group-title="央视高清",CCTV-9
+https://stream1.freetv.fun/8eceda551df80b2fa7d5e0f4187a16dc7245aa6202dc8d2db97108730d4eff1a.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV10.png" group-title="央视高清",CCTV-10
+https://stream1.freetv.fun/669cea6595ab138a586e3fdbce19f189bcc74a4f683af84615a841bb19fbcf58.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV11.png" group-title="央视高清",CCTV-11
+https://stream1.freetv.fun/a1ee8a4f3954b5e76c7d40251197d089421f936e5f616960f16ff6494fff42bf.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV12.png" group-title="央视高清",CCTV-12
+https://stream1.freetv.fun/f89bb3cfacdff9174e872e4feb28f3bb1b47d2a0b3dd152674cc9f1c9a056a59.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV13.png" group-title="央视高清",CCTV-13
+https://stream1.freetv.fun/032077fd8a5e5858db68e56df3e76063f55f5ad7e4e61c01ee7c736c8b260e07.ctv
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV14.png" group-title="央视高清",CCTV-14
+https://stream1.freetv.fun/45d51c52998fc6ab62573bdd712b4ebc7a6c8fd615e7a8d4d2f2a5b98339148c.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV15.png" group-title="央视高清",CCTV-15
+https://stream1.freetv.fun/5a65eb48b1fe9a4c4ca85d9817109aefad83f4c1f648bdf79b3a02d6d3f6016b.ctv
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV16.png" group-title="央视高清",CCTV-16
+https://stream1.freetv.fun/e48a1dccf8e46a6ff6d6c3f16ecb266622e67ea7ad05003389743c7c6a988b5b.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/CCTV/CCTV17.png" group-title="央视高清",CCTV-17
+https://stream1.freetv.fun/ff5f57e632f4ebfefe65c48a983de191de24aeab317a8de8d87b4201d5b7ddcd.ctv
+
+# 山西/6个频道
+#EXTINF:-1 tvg-id="Shanxi_hhdst" tvg-name="黄河电视台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Shanxi1.png" group-title="本地频道",黄河电视台
+http://10.10.10.100/IPTV/shanxi.php?id=hhws
+#EXTINF:-1 tvg-id="Shanxi_jjkj" tvg-name="山西经济与科技" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Shanxi2.png" group-title="本地频道",山西经济与科技
+https://stream1.freetv.fun/aea82b1f20fff9b56d73707b4892fb450b5b22f5aca611af08982a9594bf1441.m3u8
+#EXTINF:-1 tvg-id="Shanxi_yspd" tvg-name="山西影视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Shanxi3.png" group-title="地方特色",山西影视
+http://10.10.10.100/IPTV/shanxi.php?id=yspd
+#EXTINF:-1 tvg-id="Shanxi_shfz" tvg-name="山西社会与法治" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Shanxi4.png" group-title="本地频道",山西社会与法治
+http://10.10.10.100/IPTV/shanxi.php?id=shfz
+#EXTINF:-1 tvg-id="Shanxi_wtsh" tvg-name="山西文体生活" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Shanxi5.png" group-title="本地频道",山西文体生活
+http://10.10.10.100/IPTV/shanxi.php?id=wtsh
+
+# 晚间频道/4个频道
+#EXTINF:-1 tvg-id="Eroxxx TV" tvg-name="Eroxxx TV" tvg-logo="https://www.seekpng.com/png/full/148-1483720_eroxx-hd.png" group-title="🔞禁🔞"
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
