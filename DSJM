@@ -37,23 +37,7 @@ https://stream1.freetv.fun/ff5f57e632f4ebfefe65c48a983de191de24aeab317a8de8d87b4
 
 # 港台频道
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.ctitv.com.tw/wp-content/uploads/2016/12/ctitv-logo.png" group-title="港台频道",中天新闻
-https://stream1.freetv.fun/73fdcf04335713c195ad7f5e54ae06163b1afb247f80a0a5957112c8c557ed9f.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.ctitv.com.tw/wp-content/uploads/2016/12/ctitv-logo.png" group-title="港台频道",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen---wj-2.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.ctitv.com.tw/wp-content/uploads/2016/12/ctitv-logo.png" group-title="港台频道",中天新闻
-https://stream1.freetv.fun/105bdcbdb91afbd4a87017e76e56c33e3c1ba613857dabe2387818b29ec0a3b0.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.ctitv.com.tw/wp-content/uploads/2016/12/ctitv-logo.png" group-title="港台频道",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen---wj-3.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.ctitv.com.tw/wp-content/uploads/2016/12/ctitv-logo.png" group-title="港台频道",中天新闻
-https://stream1.freetv.fun/d0dc419e572496e04901fdd844b4f116a46a43cf2651e93153312310bd703995.ctv
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.ctitv.com.tw/wp-content/uploads/2016/12/ctitv-logo.png" group-title="港台频道",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-10.ctv
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.ctitv.com.tw/wp-content/uploads/2016/12/ctitv-logo.png" group-title="港台频道",中天新闻
 rtmp://123.161.179.74/live/yifatv-ztxw01
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.ctitv.com.tw/wp-content/uploads/2016/12/ctitv-logo.png" group-title="港台频道",中天新闻
-https://stream1.freetv.fun/d5a6ec037d2c4635d144520d0ddf989faeb6a5f8d5d85e3c5a5c07d2ca2d79b3.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://www.ctitv.com.tw/wp-content/uploads/2016/12/ctitv-logo.png" group-title="港台频道",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="港台频道",TVBS新闻
 https://stream1.freetv.fun/c3fbd2cbd5385d2bd9067330253813e4cb2e1818dcaebafe37e4f79a3e4f6527.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="港台频道",TVBS新闻
@@ -66,18 +50,6 @@ https://stream1.freetv.fun/tvbsxin-wen---wj-3.m3u8
 https://stream1.freetv.fun/c6590b4d003de4c120c846dbd84278207639348a2b5da00f3844f0347479675e.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="港台频道",TVBS新闻
 https://stream1.freetv.fun/tvbsxin-wen---wj-2.m3u8
-
-# 山西/6个频道
-#EXTINF:-1 tvg-id="Shanxi_hhdst" tvg-name="黄河电视台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Shanxi1.png" group-title="本地频道",黄河电视台
-http://10.10.10.100/IPTV/shanxi.php?id=hhws
-#EXTINF:-1 tvg-id="Shanxi_jjkj" tvg-name="山西经济与科技" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Shanxi2.png" group-title="本地频道",山西经济与科技
-https://stream1.freetv.fun/aea82b1f20fff9b56d73707b4892fb450b5b22f5aca611af08982a9594bf1441.m3u8
-#EXTINF:-1 tvg-id="Shanxi_yspd" tvg-name="山西影视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Shanxi3.png" group-title="本地频道",山西影视
-http://10.10.10.100/IPTV/shanxi.php?id=yspd
-#EXTINF:-1 tvg-id="Shanxi_shfz" tvg-name="山西社会与法治" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Shanxi4.png" group-title="本地频道",山西社会与法治
-http://10.10.10.100/IPTV/shanxi.php?id=shfz
-#EXTINF:-1 tvg-id="Shanxi_wtsh" tvg-name="山西文体生活" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/TVlogo/Local/Shanxi5.png" group-title="本地频道",山西文体生活
-http://10.10.10.100/IPTV/shanxi.php?id=wtsh
 
 # 晚间频道/4个频道
 #EXTINF:-1 tvg-id="Eroxxx TV" tvg-name="Eroxxx TV" tvg-logo="https://www.seekpng.com/png/full/148-1483720_eroxx-hd.png" group-title="夜间频道"
